@@ -1,6 +1,6 @@
 # projetos-em-python
-alguns projetos e codigos que podem ser uteis para vocês
-para que alguns codigos funcionem tem que importar a biblioteca
+alguns projetos e codigos que podem ser uteis para vocês-
+para que alguns codigos funcionem tem que importar a biblioteca-
 (import math)
 (import random)
 
